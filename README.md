@@ -46,3 +46,7 @@ knowledgable about .deb files and repositories and want to help fix some of
 the warnings then that would be great. I am not a Debian packaging expert
 and only wrote this because I wanted to use something like this myself.
 
+## References
+
+https://gist.github.com/awesomebytes/ce0643c1ddead589ab06e2a1e4c5861b
+
